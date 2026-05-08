@@ -1,0 +1,3 @@
+Merge
+	- git merge nome_arquivo -> Vai mesclar as branchs
+
