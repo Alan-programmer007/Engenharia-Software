@@ -1,0 +1,13 @@
+Comandos referente a manipulação de branch
+
+Criação
+	- checkout -b nome_branch -> Para criar uma nova branch
+
+Mudar de Branch
+	- git checkout nome_branch -> Para mudar para a outra branch
+
+Vizualizar
+	- git branch -> Vizualizar todas as branchs
+
+Deletar
+	-git branch -d nome_branch -> Para deletar uma branch
