@@ -1,0 +1,4 @@
+Lista de estudos
+  - Engenharia de Software
+  - Git e Git Hub
+  - Termos

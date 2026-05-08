@@ -1,0 +1,15 @@
+Criação de arquivos
+	- touch + nome do arquiuvo.txt -> Para criar um arquivo
+
+Escrita em arquivos
+	- echo "O que vai ser escrito" > nome_arquivo -> Escrever no arquivo
+	- cat <<EOF > -> Para escrevre várias linhas, apaga o que já foi escrito
+	- cat <<EOF >> -> Mantém o que já estava escrito e adicona
+
+Visualização de arquivos
+	- cat nome_arquivo -> Para vizualizar o que já foiescrito
+	- less nome_arquivo -> Para vizualizar o que já foi escrito
+
+Edição de texto via terminal
+	- nano + nome_arquivo
+
